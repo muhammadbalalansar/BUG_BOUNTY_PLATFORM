@@ -46,6 +46,7 @@ Visit `http://localhost:8420` or the live demo at [bugbounty.carterperez-dev.com
 
 **Backend:** FastAPI, SQLAlchemy 2.0+, PostgreSQL 18, Redis 7, Alembic, Argon2id, JWT
 
+
 **Frontend:** React 19, TypeScript 5.9, Vite 7, React Router 7.1, TanStack Query v5, Zustand
 
 ## Learn
