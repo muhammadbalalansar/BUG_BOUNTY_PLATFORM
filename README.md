@@ -6,7 +6,7 @@
 ██████╔╝╚██████╔╝╚██████╔╝    ██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║   ██║      ██║
 ╚═════╝  ╚═════╝  ╚═════╝     ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝      ╚═╝
 ```
-**Bug BountyBy Muhammd Balal Ansar ( Cyber Security Expert)**
+**Bug Bounty By Muhammd Balal Ansar ( Cyber Security Expert)**
 
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
