@@ -19,7 +19,7 @@
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-## What It Does
+## What It Does:
 
 - Role-based access control for Researchers, Companies, and Admins with JWT refresh token rotation
 - CVSS vulnerability scoring with full report triage and bounty award workflows
