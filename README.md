@@ -41,7 +41,7 @@ Visit `http://localhost:8420` or the live demo at [bugbounty.carterperez-dev.com
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Stack
+## Stack:
 
 **Backend:** FastAPI, SQLAlchemy 2.0+, PostgreSQL 18, Redis 7, Alembic, Argon2id, JWT
 
