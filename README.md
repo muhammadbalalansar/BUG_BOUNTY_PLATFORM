@@ -27,7 +27,7 @@
 - Rate limiting, audit logging, and input validation across all endpoints
 - Repository pattern with strict type safety across ~7,000 lines of backend code
 
-## Quick Start
+## Quick Start:
 
 ```bash
 docker compose up -d
