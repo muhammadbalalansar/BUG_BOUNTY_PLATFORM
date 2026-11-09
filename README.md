@@ -14,7 +14,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-bugbounty.carterperez--dev.com-green?style=flat&logo=googlechrome)](https://bugbounty.carterperez-dev.com/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 
-> Production-ready enterprise bug bounty platform with role-based access, CVSS scoring, and full report triage workflows.
+> Production-ready enterprise bug bounty platform with role-based access, CVSS scoring, and full report triage workflows
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
