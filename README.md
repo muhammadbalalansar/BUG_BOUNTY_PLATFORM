@@ -17,7 +17,7 @@
 > Production-ready enterprise bug bounty platform with role-based access, CVSS scoring, and full report triage workflows
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
-
+           
 ## What It Does: 
 
 - Role-based access control for Researchers, Companies, and Admins with JWT refresh token rotation
